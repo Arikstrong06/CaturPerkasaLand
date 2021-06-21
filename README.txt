@@ -3,7 +3,7 @@
 ==========================SELAMAT DATANG =========================================
 ==================================================================================
 ==================================================================================
-SEBELUM MENJALANKAN PROGRAM , ANDA HARUS :
+SEBELUM MENJALANKAN PROGRAM , ANDA HARUS ;
 1. hidupkan xampp , lalu start apache dan Mysql
 
 2 lalu buat database dengan nama caturperkasaland
